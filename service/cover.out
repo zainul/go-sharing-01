@@ -1,0 +1,7 @@
+mode: set
+github.com/zainul/sample/service/station.go:16.62,18.2 1 1
+github.com/zainul/sample/service/station.go:21.62,24.24 1 1
+github.com/zainul/sample/service/station.go:28.2,30.21 2 1
+github.com/zainul/sample/service/station.go:36.2,36.8 1 1
+github.com/zainul/sample/service/station.go:24.24,26.3 1 1
+github.com/zainul/sample/service/station.go:30.21,34.3 3 1
