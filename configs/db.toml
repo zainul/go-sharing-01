@@ -1,0 +1,7 @@
+[database]
+server = "localhost"
+port = "5432"
+name = "kai"
+user = "postgres"
+password = "ZainToped"
+provider = "postgres"
